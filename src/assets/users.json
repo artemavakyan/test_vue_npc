@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "fullName": "Иванов Иван Иванович",
+    "email": "testuser@example.com",
+    "password": "password123",
+    "avatarUrl": "https://example.com/avatar.jpg"
+  },
+  {
+    "id": 2,
+    "fullName": "Петров Сергей",
+    "email": "admin@mail.ru",
+    "password": "123qwe456",
+    "avatarUrl": "https://example.com/avatar2.jpg"
+  }
+]
