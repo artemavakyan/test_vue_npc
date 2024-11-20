@@ -48,6 +48,9 @@ onUnmounted(() => {
 </template>
 
 <style scoped lang="postcss">
+.header {
+  @apply transition-all ease-out duration-200;
+}
 .header--scrolled {
   @apply bg-white/90 py-4;
 }
