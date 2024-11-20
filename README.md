@@ -1,4 +1,8 @@
 # vue-project
+
+[Ссылка на проект](https://673d7cc63496b50dc030c2e6--avakyan-test-2.netlify.app/)
+
+
 ## Project Setup
 
 ```sh
